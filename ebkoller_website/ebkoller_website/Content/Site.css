@@ -12,6 +12,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    padding-top: 298px;
 }
 
 h1,
@@ -43,6 +44,7 @@ hr {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    border: none;
 } 
 .brand,
 .address-bar {
